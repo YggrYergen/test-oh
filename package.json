@@ -1,0 +1,25 @@
+{
+  "name": "verduleria-next15",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "framer-motion": "^10.12.17",
+    "zod": "^3.22.4",
+    "lucide-react": "^0.259.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "tailwindcss": "^3.4.8",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14"
+  }
+}
