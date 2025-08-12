@@ -1,18 +1,16 @@
 import './globals.css';
-import { PropsWithChildren } from 'react';
+import type { ReactNode } from 'react';
 
 export const metadata = {
   title: 'Verdulería Sostenible',
-  description: 'Frescura local, delivery sostenible',
+  description: 'Frescura local y delivery sostenible',
 };
 
-export default function RootLayout({ children }: PropsWithChildren) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
-    <html lang="es">
+    <html lang="es-CL">
       <head />
-      <body className="font-sans antialiased bg-brand-50 text-black">
-        {children}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }
