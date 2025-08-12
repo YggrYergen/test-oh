@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand-50: #e9f7ef;
+  --brand-100: #d4efdf;
+  --brand-200: #a9dfbf;
+  --brand-300: #7dce9f;
+  --brand-400: #4cbf80;
+  --brand-500: #21a368;
+  --brand-600: #1a8454;
+  --brand-700: #156641;
+  --brand-800: #10452f;
+  --brand-900: #0b291f;
+}
