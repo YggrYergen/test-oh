@@ -1,0 +1,22 @@
+[
+  {"id":1,"slug":"manzanas-verdes","nombre":"Manzanas Verdes","categoria":"frutas","unidad":"kg","precioCLP":2000,"stock":120,"imagen":"https://via.placeholder.com/300?text=Manzanas","organico":true,"destacado":true},
+  {"id":2,"slug":"peras","nombre":"Peras","categoria":"frutas","unidad":"kg","precioCLP":1800,"stock":80,"imagen":"https://via.placeholder.com/300?text=Peras","organico":false,"destacado":false},
+  {"id":3,"slug":"platanos","nombre":"Plátanos","categoria":"frutas","unidad":"kg","precioCLP":1500,"stock":200,"imagen":"https://via.placeholder.com/300?text=Platanos","organico":true,"destacado":false},
+  {"id":4,"slug":"naranjas","nombre":"Naranjas","categoria":"frutas","unidad":"kg","precioCLP":2200,"stock":90,"imagen":"https://via.placeholder.com/300?text=Naranjas","organico":false,"destacado":true},
+  {"id":5,"slug":"limones","nombre":"Limones","categoria":"frutas","unidad":"kg","precioCLP":1200,"stock":150,"imagen":"https://via.placeholder.com/300?text=Limones","organico":true,"destacado":false},
+  {"id":6,"slug":"kiwis","nombre":"Kiwis","categoria":"frutas","unidad":"kg","precioCLP":3000,"stock":50,"imagen":"https://via.placeholder.com/300?text=Kiwis","organico":false,"destacado":false},
+  {"id":7,"slug":"frutillas","nombre":"Frutillas","categoria":"frutas","unidad":"kg","precioCLP":3500,"stock":60,"imagen":"https://via.placeholder.com/300?text=Frutillas","organico":true,"destacado":true},
+  {"id":8,"slug":"uvas","nombre":"Uvas","categoria":"frutas","unidad":"kg","precioCLP":2800,"stock":100,"imagen":"https://via.placeholder.com/300?text=Uvas","organico":false,"destacado":false},
+  {"id":9,"slug":"zanahorias","nombre":"Zanahorias","categoria":"verduras","unidad":"kg","precioCLP":1000,"stock":180,"imagen":"https://via.placeholder.com/300?text=Zanahorias","organico":true,"destacado":false},
+  {"id":10,"slug":"papas","nombre":"Papas","categoria":"verduras","unidad":"kg","precioCLP":800,"stock":200,"imagen":"https://via.placeholder.com/300?text=Papas","organico":false,"destacado":false},
+  {"id":11,"slug":"cebollas","nombre":"Cebollas","categoria":"verduras","unidad":"kg","precioCLP":900,"stock":170,"imagen":"https://via.placeholder.com/300?text=Cebollas","organico":true,"destacado":false},
+  {"id":12,"slug":"pimientos","nombre":"Pimientos","categoria":"verduras","unidad":"kg","precioCLP":2500,"stock":75,"imagen":"https://via.placeholder.com/300?text=Pimientos","organico":false,"destacado":true},
+  {"id":13,"slug":"lechuga","nombre":"Lechuga","categoria":"verduras","unidad":"unid","precioCLP":1200,"stock":100,"imagen":"https://via.placeholder.com/300?text=Lechuga","organico":true,"destacado":false},
+  {"id":14,"slug":"tomates","nombre":"Tomates","categoria":"verduras","unidad":"kg","precioCLP":1800,"stock":110,"imagen":"https://via.placeholder.com/300?text=Tomates","organico":false,"destacado":false},
+  {"id":15,"slug":"espinaca","nombre":"Espinaca","categoria":"verduras","unidad":"kg","precioCLP":2000,"stock":90,"imagen":"https://via.placeholder.com/300?text=Espinaca","organico":true,"destacado":true},
+  {"id":16,"slug":"ajo","nombre":"Ajo","categoria":"hierbas","unidad":"kg","precioCLP":5000,"stock":30,"imagen":"https://via.placeholder.com/300?text=Ajo","organico":false,"destacado":false},
+  {"id":17,"slug":"perejil","nombre":"Perejil","categoria":"hierbas","unidad":"unid","precioCLP":600,"stock":120,"imagen":"https://via.placeholder.com/300?text=Perejil","organico":true,"destacado":false},
+  {"id":18,"slug":"cilantro","nombre":"Cilantro","categoria":"hierbas","unidad":"unid","precioCLP":600,"stock":110,"imagen":"https://via.placeholder.com/300?text=Cilantro","organico":false,"destacado":false},
+  {"id":19,"slug":"albahaca","nombre":"Albahaca","categoria":"hierbas","unidad":"unid","precioCLP":800,"stock":80,"imagen":"https://via.placeholder.com/300?text=Albahaca","organico":true,"destacado":true},
+  {"id":20,"slug":"oregano","nombre":"Orégano","categoria":"hierbas","unidad":"unid","precioCLP":700,"stock":90,"imagen":"https://via.placeholder.com/300?text=Oregano","organico":false,"destacado":false}
+]
